@@ -1,0 +1,1 @@
+{"virtualbox":{"/home/vagrant/Code/apisrestfull":{"type":null,"mount_options":["uid=1000","gid=1000"],"guestpath":"/home/vagrant/Code/apisrestfull","hostpath":"/opt/lampp/htdocs/Laravel/APISRESTFULL","disabled":false,"__vagrantfile":true},"/vagrant":{"guestpath":"/vagrant","hostpath":"/opt/lampp/htdocs/Laravel/APISRESTFULL","disabled":false,"__vagrantfile":true}}}
